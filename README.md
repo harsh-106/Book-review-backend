@@ -3,7 +3,7 @@
 This is the backend server for the **Book Review Platform** project.
 
 ## 🚀 Features
-- User authentication (login/register)
+- User (login/register)
 - CRUD operations for Books
 - CRUD operations for Reviews
 - MongoDB database integration
@@ -28,5 +28,5 @@ This is the backend server for the **Book Review Platform** project.
 **Create a .env file:**
 -MONGO_URI=your_mongodb_connection_string
 -PORT=5000
-3. **Run the server**
+**Run the server**
 -npm run dev
