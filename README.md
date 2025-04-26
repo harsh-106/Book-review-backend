@@ -20,12 +20,12 @@ This is the backend server for the **Book Review Platform** project.
 
 ## ⚙️ Getting Started
 
-1. **Clone the repository**
+ -Clone the repository
 ```bash
 -git clone <repository_url>
 -cd backend
 -npm install
-2. **Create a .env file:**
+**Create a .env file:**
 -MONGO_URI=your_mongodb_connection_string
 -PORT=5000
 3. **Run the server**
