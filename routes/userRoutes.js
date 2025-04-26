@@ -15,4 +15,6 @@ router.put('/:id', updateUserProfile);
 router.get('/', getAllUsers); 
 router.get('/email/:email', checkEmailExistence);
 
+
+
 export default router;
